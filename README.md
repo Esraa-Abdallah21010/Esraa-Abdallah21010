@@ -12,12 +12,8 @@
 
 ### 📊 GitHub Stats
 
-![Esraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esraa-Abdallah21010&show_icons=true&theme=radical)
+![Esraa's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Esraa-Abdallah21010&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Abdallah21010&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Esraa-Abdallah21010&layout=compact&theme=radical)
 
 
-
-<!--START_SECTION:top-followers-->
-
-<!--END_SECTION:top-followers-->
