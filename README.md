@@ -15,7 +15,5 @@
 
 
 <!--START_SECTION:top-followers-->
-<table>
-  </tr>
-</table>
+
 <!--END_SECTION:top-followers-->
