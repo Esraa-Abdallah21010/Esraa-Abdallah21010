@@ -45,7 +45,7 @@
 ## 🎬 Coding Animation
 
 <p align="center">
-  <img src="https://tenor.com/uEUpsi04Nz9.gif" alt="Coding Animation" width="400" />
+  <img src="https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif" alt="Coding Animation" width="400" />
 </p>
 
 
