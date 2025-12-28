@@ -43,9 +43,11 @@
 ---
 
 ## 🎬 Coding Animation
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Coding Animation" width="400"/>
+  <img src="https://media.tenor.com/XXXXXXXXXXXXAAA.gif" alt="Coding Animation" width="400" />
 </p>
+
 
 ---
 
