@@ -42,28 +42,22 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- 🔹 Advanced JavaScript  
-- 🔹 Front-End Frameworks (React, Vue)  
-- 🔹 Back-End Fundamentals (Node.js, Databases)  
-- 🔹 Full Stack Project Architecture  
+## 🎬 Coding Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Coding Animation" width="400"/>
+</p>
 
 ---
 
 ## 📂 Projects
 
-- 🧩 [Frontend Mentor Challenges](https://github.com/Esraa-Abdallah21010?tab=repositories)  
-- 🧪 Practice Projects  
-- 🚀 Learning-based Applications
-
-**Screenshots:**  
-
-**Desktop View:**  
-![Desktop](Screen%20Shot%20Desktop.png)  
-
-**Mobile View:**  
-![Mobile](Screen%20Shot%20Mobile.png)
+### Four Card Feature Section
+<p align="center">
+  <img src="Four-Card-Animation.gif" alt="Four Card Project Animation" width="600"/>
+</p>
+- ✅ Fully responsive  
+- ✅ Hover animations on cards  
+- ✅ Clean & semantic HTML structure  
 
 ---
 
