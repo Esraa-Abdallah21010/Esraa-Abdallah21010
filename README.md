@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ### ⚙️ Back-End (Learning)
@@ -54,21 +55,15 @@
 
 - 🧩 [Frontend Mentor Challenges](https://github.com/Esraa-Abdallah21010?tab=repositories)  
 - 🧪 Practice Projects  
-- 🚀 Learning-based Applications  
+- 🚀 Learning-based Applications
 
-> Every project here reflects my progress and passion for learning 💙
+**Screenshots:**  
 
----
+**Desktop View:**  
+![Desktop](Screen%20Shot%20Desktop.png)  
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-Abdallah21010&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Abdallah21010&layout=compact&theme=radical" />
-</p>
+**Mobile View:**  
+![Mobile](Screen%20Shot%20Mobile.png)
 
 ---
 
