@@ -28,7 +28,7 @@
 ### ⚙️ Back-End (Learning)
 <p>
   <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databases-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🧰 Tools
@@ -43,16 +43,16 @@
 
 ## 🌱 Currently Learning
 
-- 🔹 Advanced JavaScript
-- 🔹 Front-End Frameworks
-- 🔹 Back-End Fundamentals
-- 🔹 Full Stack Project Architecture
+- 🔹 Advanced JavaScript  
+- 🔹 Front-End Frameworks (React, Vue)  
+- 🔹 Back-End Fundamentals (Node.js, Databases)  
+- 🔹 Full Stack Project Architecture  
 
 ---
 
 ## 📂 Projects
 
-- 🧩 Front-End Mentor Challenges  
+- 🧩 [Frontend Mentor Challenges](https://github.com/Esraa-Abdallah21010?tab=repositories)  
 - 🧪 Practice Projects  
 - 🚀 Learning-based Applications  
 
@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-Abdallah21010&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-Abdallah21010&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
@@ -74,16 +74,18 @@
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:esraaabdallah21010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Esraa-Abdallah21010">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/esraa-abdallah-029945381">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ⭐ Follow my journey as I grow into a Full Stack Developer!
-
